@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: white;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+#cruzeiro{
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    box-sizing: border-box;
+    margin-left: 25%;
+    margin-bottom: 20px ;
+}
+#america{
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    box-sizing: border-box;
+}
+#atletico{
+    text-align: center;
+    width: 400px;
+    height: 250px;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+.divmae{
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-sizing: border-box;
+}
+.times{
+    color: black;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+body{
+    margin: 0   ;
+}
