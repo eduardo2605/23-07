@@ -6,14 +6,14 @@ h1{
     border-bottom: 3px solid black;
 }
 #cruzeiro{
+    margin-right: 10px;
     text-align: center;
     width: 400px;
     height: 250px;
     box-sizing: border-box;
-    margin-left: 25%;
-    margin-bottom: 20px ;
 }
 #america{
+    margin-left: 10px;
     text-align: center;
     width: 400px;
     height: 250px;
@@ -24,12 +24,11 @@ h1{
     width: 400px;
     height: 250px;
     box-sizing: border-box;
-    margin-right: 20px;
 }
-.divmae{
-    margin-bottom: 60px;
-    margin-left: 60px;
-    margin-right: 60px;
+.divmae{    
+    display: flex;
+    align-items: center;
+    justify-content: center;
     box-sizing: border-box;
 }
 .times{
@@ -44,5 +43,5 @@ img{
     height: 60px;
 }
 body{
-    margin: 0   ;
+    margin: 0;
 }
